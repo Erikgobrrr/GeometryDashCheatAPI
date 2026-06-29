@@ -39,10 +39,10 @@ This is the list of valid rulesets currently in the mod settings and passable to
 Ruleset name as string in code | In-game ruleset setting label | Definition / Source
 --- | --- | ---
 `"ROBTOP"` | Robtop | Will RobTop rate levels verified with the current game modifications? Can they get you leaderboard-banned?
-`"DEMONLIST"` | Pointercrate | Based on https://pointercrate.com/guidelines/eligibility
-`"GDDL"` | Geometry Dash Levels List | Based on https://gdladder.com/
+`"DEMONLIST"` | Pointercrate | https://pointercrate.com/guidelines/eligibility
+`"GDDL"` | Geometry Dash Levels List | There isn't a link for this, but their rules are probably different from other GD-related websites.
 `"MODMAKEROPINION"` | Mod Makers Opinion | What is my opinion?
-`"AREDL"` | All Rated Extreme Demons List | Based on https://aredl.net/guidelines
+`"AREDL"` | All Rated Extreme Demons List | https://aredl.net/guidelines
 `"PEMONLIST"` | pemonlist.com | https://pemonlist.com/rules
 
 ## Mod methods
